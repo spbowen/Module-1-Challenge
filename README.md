@@ -1,5 +1,3 @@
-# Module-1-Challenge
-Module 1 Challenge
 # Code Refactor Starter Code
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
